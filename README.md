@@ -16,4 +16,10 @@ Adicionei uma linha de texto 30/04
 
 ######alterei de novo pq sou burro 15:01
 
+
+***versão corrigida
+
 ---- versao da branch main 
+
+#### linha alterada no conflito 15:21
+
